@@ -1,3 +1,5 @@
+package circus.staff;
+
 public class Ladder extends Equipment {
 
     public Ladder(int purchasePrice) {
