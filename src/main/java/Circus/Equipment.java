@@ -1,4 +1,6 @@
-public abstract class Equipment {
+package Circus;
+
+public abstract class Equipment{
     protected int purchasePrice;
 
     public Equipment(int purchasePrice) {
